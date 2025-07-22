@@ -1,0 +1,22 @@
+# Simple GitLab CI/CD configuration for static HTML/CSS sites
+# No build process required - just serve files from public folder
+
+# Minimal Image
+image: alpine:latest
+
+# Define the stages
+stages:
+  - deploy
+
+# Deploy to GitLab Pages
+pages:
+  stage: deploy
+  script:
+    # Simply ensure the public folder exists
+    # GitLab Pages will serve everything in the public folder
+    - echo "Deploying static site to GitLab Pages"
+  artifacts:
+    paths:
+      - public
+  only:
+    - main  
