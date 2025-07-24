@@ -1,14 +1,35 @@
-# week3
+# Project #3 – HTML and CSS Weather Dashboard
 
-Complete all tasks. 
+This project is part of Week 3 for CSC6304. It demonstrates basic HTML and CSS concepts, including page structure, inputs, buttons, links, Flexbox layout, responsive design, and CSS animations. The project is hosted on GitLab Pages.
 
-Task 1-9 should be closed out with a commit.
-Task 10 can be closed out manually if needed.
+---
 
-There should be NO Javascript in this project!!!
+## **Project Links**
 
-The purpose of this project is to understand HTML and CSS.
+- **GitLab Repository:**  
+https://gitlab.com/csc6304/2025/summer-2/Katie-Barnes/katie_barnes_week3
 
-# Use best practices.
-Create a feature branch to work on your code.
-Make small commits and be sure to close out your task with the appropriate commit message.
+- **Hosted Page (GitLab Pages):**  
+https://katie-barnes-week3-28e511.gitlab.io/
+
+---
+
+## **Features**
+- Semantic HTML5 structure
+- Input fields for latitude and longitude
+- Styled button with inline CSS
+- Internal and external CSS styles
+- Responsive design using Flexbox
+- Basic CSS animation on header
+- External link to Weather.com
+
+---
+
+## **How to View**
+1. Visit the hosted page link above.
+2. Explore the static weather dashboard.
+
+---
+
+## **Credits**
+Developed by Katie Barnes
