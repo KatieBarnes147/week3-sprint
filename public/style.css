@@ -6,10 +6,8 @@ body {
     background-color: #f4f4f4;
     margin: 0;
     padding: 20px;
-}
 
-/* Container layout with Flexbox */
-body {
+    /* Flexbox layout */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -50,4 +48,21 @@ input {
     #weather-info {
         width: 100%;
     }
+}
+
+/* Animation for h1 */
+@keyframes fadeSlide {
+    0% {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+h1 {
+    animation: fadeSlide 1s ease-in-out;
 }
