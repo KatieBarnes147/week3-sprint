@@ -3,16 +3,17 @@
 The goal was to learn how to create a static web page using HTML and CSS, structure it properly, apply both internal and external styles, and successfully host the project using GitLab Pages.  
 
 **Did you achieve this goal? Why or why not?**  
-Yes, I achieved this goal. I built the required layout, styled it using multiple CSS methods, and learned how to configure GitLab Pages for hosting.  
+Yes, I achieved this goal. I built the required layout, styled it using multiple CSS methods, and learned how to configure GitLab Pages for hosting. I also went beyond the basic requirements by adding a city input field for better usability.
 
 ---
 
 ## 📋 What We Delivered
 **What specific work did you complete this sprint?**  
 I completed all ten tasks, including creating the HTML file, adding headers, weather markup, inputs, button, external link, and CSS styling, as well as hosting the project through GitLab Pages.  
+Additionally, I added a **city input field** and updated the header text so the instructions matched all available input options. When I reopened my browser my website did not make any sense to me that is why I felt the need to update it. 
 
 **What deliverables are you most proud of?**  
-I’m most proud of the final layout, responsive design, and adding an animation effect to the header, as well as successfully troubleshooting the CI/CD setup for hosting.  
+I’m most proud of the final layout, responsive design, the CSS animation on the header, and resolving GitLab Pages hosting. Adding the city input was a nice usability improvement.
 
 ---
 
@@ -21,12 +22,13 @@ I’m most proud of the final layout, responsive design, and adding an animation
 - Using Flexbox for responsive page layout  
 - Combining inline, internal, and external CSS styles  
 - Setting up GitLab CI/CD and Pages hosting  
+- Making small improvements (like adding extra inputs) while maintaining project requirements  
 
 **What was the most challenging part of this sprint?**  
 Figuring out why pipelines were disabled and learning how to enable CI/CD for hosting.  
 
 **How did you overcome obstacles or roadblocks?**  
-I carefully followed the professor’s instructions in the weekly PDF, adjusted project settings, and retried the pipeline until it worked.  
+I carefully followed the professor’s instructions in the weekly PDF, adjusted project settings, and retried the pipeline until it worked.
 
 ---
 
@@ -38,7 +40,7 @@ Breaking down the tasks one by one and committing after each task kept me organi
 I would check hosting and CI/CD settings at the start of the project to avoid confusion later.  
 
 **How effectively did you manage your time?**  
-- [x] Very well - stayed on schedule and I was prepared and waitingwhen the assignments were released.
+- [x] Very well - stayed on schedule  
 - [ ] Fairly well - minor delays  
 - [ ] Struggled - fell behind schedule  
 - [ ] Poorly - significant time management issues  
@@ -62,7 +64,7 @@ I’d like to learn how to integrate JavaScript to make the weather data dynamic
 Improving efficiency in setting up pipelines and troubleshooting GitLab Pages earlier.  
 
 **One thing you'll carry forward from this experience:**  
-The importance of committing frequently and testing deployments early in the project.  
+The importance of committing frequently and testing deployments early in the project.
 
 ---
 
@@ -75,6 +77,6 @@ The importance of committing frequently and testing deployments early in the pro
 - [ ] Poor (1/5) - Significant challenges  
 
 **Brief explanation of your rating:**  
-I completed all tasks on time, successfully hosted the project, and gained new skills with GitLab Pages and responsive CSS design.  
+I completed all tasks on time, successfully hosted the project, and even enhanced it with an additional input field for city names. I learned a lot about GitLab Pages and responsive CSS design.
 
 ---
