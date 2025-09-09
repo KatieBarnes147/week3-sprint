@@ -49,9 +49,7 @@ $env:PORT="5003"
 python app.py
 
 ## 🖼️ Week 3 — Success
-<p align="center">
-  <img src="./public/success.png" alt="Week 3 — success screenshot" width="760">
-</p>
+![Week 3 — success screenshot](./public/success.png)
 
 🔒 Security
 Real secrets are ignored (see .gitignore).
